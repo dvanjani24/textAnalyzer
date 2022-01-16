@@ -1,4 +1,4 @@
-# textanalyzer
+# textAnalyzer
 
 A function that analyzes a text file and produces the following:
 - the top 5 most frequently used words in the file
